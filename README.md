@@ -23,6 +23,10 @@ After opening the program, users should select the 'Generate Password' button an
 
 ## Credits
 
+Starter code was provided as part of this project. 
+
+The started code can be found at this GitHub repository: https://github.com/coding-boot-camp/friendly-parakeet
+
 This project was completed with the assistance of the University of Sydney Coding Course tutor, Tom Szentirmay. 
 
 ## License
