@@ -13,6 +13,10 @@ It solves the employees having to think about the password themselves and reduce
 
 There are no installation steps required. This project can be opened on any web browser. 
 
+You can open the project at this URL: https://a-r3n.github.io/module-3-password-generator/
+
+The repository can be accessed on GitHub here: https://github.com/a-r3n/module-3-password-generator 
+
 ## Usage
 
 After opening the program, users should select the 'Generate Password' button and then follow the prompts on their browser. 
