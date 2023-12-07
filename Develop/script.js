@@ -115,7 +115,6 @@ for (var i = 0; i < options.length; i++) {
   result.push(possibleCharacter)
 }
 
-
 // mix in at least one of the guaranteed characters in the result 
 for (var i=0; i < guaranteedCharacters.length; i++) {
   result[i] = guaranteedCharacters[i];
